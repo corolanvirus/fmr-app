@@ -1,0 +1,23 @@
+{
+    "welcomeSignUp": "Welcome to FlutterFire UI! Please create an account to continue",
+    "welcomeSignIn": "Welcome to FlutterFire UI! Please sign in to continue.",
+    "termsSignUp": "By registering, you agree to our terms and conditions.",
+    "termsSignIn": "By signing in, you agree to our terms and conditions.",
+
+    "appName": "My Sample App",
+    "login": "Login",
+    "register": "Register",
+    "home": "Home",
+    "notifications": "Notifications",
+    "settings": "Settings",
+
+    "system": "System Default",
+    "light": "Light",
+    "dark": "Dark",
+
+    "noteHint": "Note...",
+    "taskHint": "Task",
+    "createTask": "Create Task",
+    "todoDetails": "Todo Details",
+    "save": "Save"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632043731048",
+    "project_id": "fmr-app-2cfa4",
+    "storage_bucket": "fmr-app-2cfa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632043731048:android:6c180d4926c87c7b9863dd",
+        "android_client_info": {
+          "package_name": "com.fmr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632043731048-8000cje7mqcs6qun13gfbkf78jlfck1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fmr.app",
+            "certificate_hash": "8c5a2d9b054997e58ccd73cdf4d4eee123a2f3d5"
+          }
+        },
+        {
+          "client_id": "632043731048-cfmp1r6tv4pdpul0ln2ghio8shf35omr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInIpppFHWQUZG0Ijgt4qv-BTUoZqSu1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632043731048-cfmp1r6tv4pdpul0ln2ghio8shf35omr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
