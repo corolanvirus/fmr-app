@@ -31,7 +31,7 @@ Other Features (admin ? arbitre) :
 
 ## Ajout d'une fonctionnalité / Nouveau Bug
 
-un problème ? [cliquez-ici](https://github.com/corolanvirus/fmr-app/issues/new)
+un problème ? [cliquez-ici](https://github.com/corolanvirus/fmr-app/issues/new/choose)
 
 
 
